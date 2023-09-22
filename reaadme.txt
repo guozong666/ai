@@ -1,0 +1,1 @@
+提供通过ssh方式链接linux的postgresql
